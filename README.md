@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **Python (Scikit-learn/tensorflow) and R (Shiny /Shinydashboard)**
 
-- 👨‍💻 All of my projects are available at [github.com/dinasdata](github.com/dinasdata)
+- 👨‍💻 All of my projects are available at my github account.
 
 - 💬 Ask me about **Data analysis with Python(Pandas,Numpy, Matplotlib and Seaborn) and R (Tidyverse)**
 
 - 📫 How to reach me **andrianambinintsoadina@Gmail.com**
+
+- Or view my linkedin profil :<a href="https://www.linkedin.com/in/dina-larry-isma%C3%ABl-andrianambinintsoa-5992852a7/" target="_blank" rel="noreferrer"> <p>ANDRIANAMBININTSOA  Dina Larry Ismaël  </p></a>
 
 - 📄 Know about my experiences [CV_Dina.pdf](CV_Dina.pdf)
 <h3 align="left">Languages and Tools:</h3>
