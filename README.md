@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python (Scikit-learn/tensorflow) and R (Shiny /Shinydashboard)**
 
-- 👨‍💻 All of my projects are available at [github.com/dinasdata](github.com/dinasdata)
+- 👨‍💻 All of my projects are available at my github account :) .
 
 - 💬 Ask me about **Data analysis with Python(Pandas,Numpy, Matplotlib and Seaborn) and R (Tidyverse)**
 
