@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andrianambinintsoadina@Gmail.com**
 
-- 📄 Know about my experiences [CV_Dina.pdf](CV_Dina.pdf)
+- 📄 Know about my experiences [My_CV.pdf](My_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
